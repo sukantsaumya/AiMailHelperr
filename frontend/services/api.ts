@@ -2,8 +2,7 @@ import axios from 'axios';
 import { Email, Prompt, Draft } from '../types';
 
 // Backend API URL
-const API_URL = 'http://127.0.0.1:8000';
-
+const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000';
 console.log('🔧 API Service initialized with URL:', API_URL);
 
 // Test connection on load
