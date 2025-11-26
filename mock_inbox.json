@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "sender": "boss@company.com",
+    "subject": "URGENT: Q3 Report Due Today",
+    "body": "Hi,\n\nI need the Q3 financial report on my desk by 5 PM today. No excuses. We have a board meeting tomorrow morning.\n\nThanks,\nBoss",
+    "timestamp": "2023-10-27T09:00:00",
+    "is_read": false
+  },
+  {
+    "id": 2,
+    "sender": "noreply@lottery-winner.net",
+    "subject": "CONGRATULATIONS! You won $1,000,000",
+    "body": "Dear Winner,\n\nYou have been selected to receive a grand prize. Click here to claim your money now! send bank details immediately.",
+    "timestamp": "2023-10-27T09:15:00",
+    "is_read": false
+  },
+  {
+    "id": 3,
+    "sender": "newsletter@techdigest.io",
+    "subject": "Weekly Tech: AI is taking over?",
+    "body": "This week in tech: Google releases new Gemini models, Python 3.13 updates, and the future of quantum computing. Read more...",
+    "timestamp": "2023-10-27T10:00:00",
+    "is_read": true
+  },
+  {
+    "id": 4,
+    "sender": "sarah.j@client.com",
+    "subject": "Project Delta: Delay in delivery",
+    "body": "Hi team,\n\nUnfortunately, due to supply chain issues, the components for Project Delta will be delayed by 2 weeks. We need to reschedule the milestone review.",
+    "timestamp": "2023-10-27T10:30:00",
+    "is_read": false
+  },
+  {
+    "id": 5,
+    "sender": "calendar-invite@google.com",
+    "subject": "Invitation: Sync w/ Marketing @ Mon Oct 30 2pm",
+    "body": "You have been invited to the following event.\n\nSync w/ Marketing\nWhen: Mon Oct 30, 2pm - 3pm\nWhere: Room 404",
+    "timestamp": "2023-10-27T11:00:00",
+    "is_read": false
+  },
+  {
+    "id": 6,
+    "sender": "mom@gmail.com",
+    "subject": "Sunday Lunch?",
+    "body": "Hey honey, are you free this Sunday? I'm making lasagna. Let me know!",
+    "timestamp": "2023-10-27T12:00:00",
+    "is_read": false
+  },
+  {
+    "id": 7,
+    "sender": "aws-billing@amazon.com",
+    "subject": "Your AWS Bill is Ready",
+    "body": "Your invoice for October 2023 is ready. Total: $45.20. Log in to view details.",
+    "timestamp": "2023-10-27T12:30:00",
+    "is_read": true
+  },
+  {
+    "id": 8,
+    "sender": "recruiter@linkedin.com",
+    "subject": "Opportunity at AI Startup",
+    "body": "Hi there, I saw your profile and thought you'd be a great fit for our Senior Engineer role. Let's chat?",
+    "timestamp": "2023-10-27T13:00:00",
+    "is_read": false
+  },
+  {
+    "id": 9,
+    "sender": "project-manager@company.com",
+    "subject": "Fwd: Re: Project Delta Delay",
+    "body": "FYI - see below. We need to update the Gantt chart ASAP.\n\n> From: sarah.j@client.com\n> Subject: Project Delta: Delay in delivery\n> ...delayed by 2 weeks...",
+    "timestamp": "2023-10-27T13:15:00",
+    "is_read": false
+  },
+  {
+    "id": 10,
+    "sender": "hr@company.com",
+    "subject": "Open Enrollment Begins Today",
+    "body": "Team, it's that time of year again. Please select your health insurance plans by Nov 15th.",
+    "timestamp": "2023-10-27T14:00:00",
+    "is_read": true
+  },
+  {
+    "id": 11,
+    "sender": "security@company.com",
+    "subject": "Phishing Alert",
+    "body": "Please be aware of a recent phishing campaign targeting employees. Do not click links from unknown senders.",
+    "timestamp": "2023-10-27T14:30:00",
+    "is_read": true
+  },
+  {
+    "id": 12,
+    "sender": "do-not-reply@delivery.com",
+    "subject": "Your package has been delivered",
+    "body": "Good news! Your package was left at the front door. See photo proof attached.",
+    "timestamp": "2023-10-27T15:00:00",
+    "is_read": false
+  },
+  {
+    "id": 13,
+    "sender": "steve@engineering.com",
+    "subject": "Code Review Request: PR #405",
+    "body": "Can you take a look at my PR when you have a sec? It fixes the login bug. Needs merge by EOD.",
+    "timestamp": "2023-10-27T15:30:00",
+    "is_read": false
+  },
+  {
+    "id": 14,
+    "sender": "subscriptions@nytimes.com",
+    "subject": "Your subscription is expiring",
+    "body": "We miss you. Come back for $1/week.",
+    "timestamp": "2023-10-27T16:00:00",
+    "is_read": true
+  },
+  {
+    "id": 15,
+    "sender": "ceo@company.com",
+    "subject": "Town Hall Tomorrow",
+    "body": "All hands meeting tomorrow at 10 AM. I will be discussing the new strategic direction.",
+    "timestamp": "2023-10-27T16:30:00",
+    "is_read": false
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "name": "Prompt-Driven Email Agent",
+  "description": "An AI-powered email productivity tool where the agent's behavior is defined by user-editable prompts. Features categorization, action extraction, and drafting using Gemini.",
+  "requestFramePermissions": []
+}
